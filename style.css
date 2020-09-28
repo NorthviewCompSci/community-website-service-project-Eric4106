@@ -40,12 +40,14 @@ nav a:hover{
     background-color: #800;
 }
 
-img#buzzer {
-    height: 320px;
+img#NAQT {
+    max-width: 300px;
+    margin-top: -225px;
+    margin-left: -275px;
 }
 
-img#buzzer:hover {
-    transform: rotateZ(180deg);
+img#buzzer {
+    max-height: 320px;
 }
 
 img.left {
@@ -70,4 +72,8 @@ h1 {
 
 h2 {
     font-size: 32px;
+}
+
+ul {
+    text-align: justify;
 }
